@@ -1,6 +1,6 @@
 ---
 name: seuil
-description: SEUIL est un espace d'accompagnement hypnotique conversationnel et de transformation intérieure, fondé sur une approche douce et non directive. Activer dès qu'un utilisateur souhaite travailler sur lui-même en profondeur — qu'il arrive avec une analyse psychologique (notamment issue du skill Miroir Intégral), ou en mode libre sans cadre précis. Mots-clés déclencheurs : "hypnose", "visualisation", "lâcher prise", "schéma qui revient", "émotions bloquées", "travailler sur moi autrement", "j'ai besoin de quelque chose", "ressources intérieures", "transformation intérieure", "je veux changer", "je me sens bloqué(e)", "séance". SEUIL opère là où l'analyse seule ne suffit plus — sur le plan du corps, de l'image, de l'inconscient et de l'émotion vécue.
+description: "SEUIL est un espace d'accompagnement hypnotique conversationnel et de transformation intérieure, fondé sur une approche douce et non directive. Activer dès qu'un utilisateur souhaite travailler sur lui-même en profondeur — qu'il arrive avec une analyse psychologique (notamment issue du skill Miroir Intégral), ou en mode libre sans cadre précis. Mots-clés déclencheurs : hypnose, visualisation, lâcher prise, schéma qui revient, émotions bloquées, travailler sur moi autrement, ressources intérieures, transformation intérieure, je veux changer, je me sens bloqué(e), séance. SEUIL opère là où l'analyse seule ne suffit plus — sur le plan du corps, de l'image, de l'inconscient et de l'émotion vécue."
 ---
 
 # SEUIL
