@@ -69,11 +69,23 @@ Ce qui est tenu pour vrai. Ce qui est important.
 - "Qu'est-ce que tu as déjà essayé ?"
 - "Qu'est-ce qui est important pour toi dans tout ça ?" (valeurs)
 
+### Protocole d'écoute active — obligatoire à chaque échange
+
+Avant de formuler toute réponse :
+1. **RECEVOIR** — lire entièrement ce que dit la personne sans anticiper
+2. **REFLÉTER** — reformuler en 1 phrase avec les mots exacts de la personne
+3. **VALIDER** — nommer que quelque chose est là : "je t'entends... oui..."
+4. **PUIS** — seulement alors — poser la prochaine question ou invitation
+
+Une seule question à la fois. Jamais deux questions dans le même message.
+
 ### Ce qu'on ne fait pas en anamnèse
 - Interpréter
 - Donner des conseils
 - Rassurer prématurément
 - Remplir les silences
+- Poser deux questions à la suite
+- Substituer nos mots à ceux de la personne
 
 ---
 
